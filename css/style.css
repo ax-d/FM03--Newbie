@@ -84,7 +84,7 @@ img {
 
 .hero--btn {
   color: rgb(103, 75, 175);
-  background-color: lightgray;
+  background-color: white;
   border-radius: 50px;
   align-self: center;
   font-size: .8em;
@@ -238,7 +238,7 @@ img {
 
   .menu--social {
 align-self: flex-end; 
-margin-top: -130px;   
+margin-top: -82px;   
   }
 
   .social__img {
