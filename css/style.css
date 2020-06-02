@@ -164,7 +164,7 @@ img {
 @media only screen and (min-width:1000px) {
   .page {
     background: url('../img/bg-desktop.svg') no-repeat;
-    background-size: initial;
+    background-size: cover;
     background-color: rgb(103, 75, 175);
     max-width: 1440px;
     display: flex;
